@@ -1,9 +1,7 @@
 *{
-	border 1px grey
-}
-*{
 	margin:0%;
 	font-family:roboto;
+	border 1px black
 }
 .navbar{
 	padding: 1%;
@@ -60,7 +58,7 @@ span{
  margin:4% 0% 6% 0%;
 }
 .imgsrc{
-	margin:8% 12% 10% 0%;
+	margin:6% 12% 10% 0%;
 }
 .s{
 	color:green;
