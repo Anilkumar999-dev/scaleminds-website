@@ -1,0 +1,426 @@
+*{
+	margin:0%;
+	font-family:roboto;
+}
+.navbar{
+	padding: 1%;
+}
+.navbar a{
+	position:sticky;
+	text-decoration: none;
+	color:black;
+	font-size:1.2rem;
+	font-family:sans-serif;
+	margin-right:2%;
+	text-align:center;
+	
+}
+.navbar button{
+	background-color:#35b754;
+	color:;
+	border:none;
+	padding: 1%;
+	border-radius: 2px;
+	font-size:1rem;
+}
+span{
+	color:white;
+}
+.navbar img{
+	position:sticky;
+	width:13%;
+	height:10Vh;
+	vertical-align: middle;
+	margin:0% 15% 0% 8%;
+}
+.bg1{
+	display:flex;
+	background-color:#f4f8fe;
+	margin:0%;
+	padding:1%;
+	min-height: 30vh;
+
+}
+.fonts{
+	font-weight:bold;
+	font-size:1.5rem;
+	margin:8% 15% 6% 8%;;
+}
+.heading{
+	font-size:3.2rem;
+	color:#132f4d;
+}
+.paragraph{
+ font-size:1.3rem;
+ font-family:calibri;
+ color:#253336;
+ margin:4% 0% 6% 0%;
+}
+.imgsrc{
+	margin:8% 12% 10% 0%;
+}
+.s{
+	color:green;
+}
+.btnn{
+	background-color:red;
+	padding:3% 4%;
+	font-size:1rem;
+	border:none;
+	border-radius:2px;
+	margin:3% 0% 4% 0%;
+	color:white;
+	
+}
+.head{
+	text-align: center;
+	margin:3%;
+}
+.para{
+	text-align:center;
+	font-size:1.2rem;
+	margin:3% 0% 4% 0%;
+	padding:0.8%;
+}
+.bars div{
+	margin:1%;
+	width:27%;
+	padding:2% 3%;
+	background-color:#f4f8fe;
+	border-radius: 4%;
+}
+.google{
+	padding:1%;
+	font-size:1.5rem;
+	font-weight:bold;
+	font-family:sans-serif;
+}
+.gads{
+	padding:2%;
+	font-size:1.2rem;
+	color:lightblack;
+
+}
+.facebook{
+	padding:1%;
+	font-size:1.5rem;
+	font-weight:bold;
+	font-family:sans-serif;
+}
+.fbook{
+	padding:1%;
+	font-size:1.2rem;
+	color:lightblack;
+
+}
+.seo{
+	padding:1%;
+	font-size:1.5rem;
+	font-weight:bold;
+	font-family:sans-serif;
+}
+.seopara{
+	padding:1%;
+	font-size:1.2rem;
+	color:lightblack;
+}
+.bars{
+	display:flex;
+	padding:2%;
+}
+.our{
+	text-align: center;
+	padding:1%;
+	font-weight:bold;
+	font-family:sans-serif;
+}
+.revpara{
+	text-align:center;
+	padding:1%;
+	font-size:1.2rem;
+	color:lightblack;
+}
+.target>div{
+	display: flex;
+}
+.target{
+	display:flex;
+	padding:1%;
+	margin:3% 2%;
+}
+.remaning>div{
+	display:flex
+}
+.remaning{
+	display:flex;
+	padding:1%;
+	margin:3% 2%;
+}
+.card{
+	background-color:rgb(16,12,52);
+	display:flex;
+	justify-content:"flex-end";
+	margin:3%;
+	border-radius:1.8%;
+
+}
+.cardtitle{
+	color:white;
+	font-size:2.8rem;
+	margin:3%;
+	padding:2%;
+}
+.btnnn{
+	background-color:red;
+	padding:3% 4%;
+	font-size:1rem;
+	border:none;
+	border-radius:2px;
+	margin:4%;
+	color:white;
+
+}
+.belowcard{
+	text-align:center;
+	padding:3%;
+}
+.head1{
+	font-size:2.5rem;
+	padding:1%;
+	font-weight:bold;
+	font-family:sans-serif;
+}
+.para1{
+	font-size:1.2rem;
+}
+.bars{
+	display:flex;
+	padding:2%;
+}
+.totalbars{
+	padding:2%;
+}
+.bars1 div{
+	margin:1%;
+	width:27%;
+	padding:2% 3%;
+	background-color:#f4f8fe;
+	border-radius: 4%;
+}
+.bars1{
+	display:flex;
+}
+.bars3{
+	display:flex;
+}
+.bars3 div{
+	margin:1%;
+	width:27%;
+	padding:2% 3%;
+	background-color:#f4f8fe;
+	border-radius: 4%;
+}
+.marq{
+	text-align: center;
+}
+.marqimg{
+	margin:4%;
+}
+.vidtitle{
+	text-align: center;
+	padding:4%;
+	font-size:2.3rem;
+}
+.yuvideos{
+	display:flex;
+}
+.yuvideos >div{
+	display: flex;
+	margin: 1%;
+	padding:1% 2%;
+	width:27%;
+	vertical-align: middle;
+}
+.videos{
+	background-color:#f4f8fe;
+	margin:3%;
+	border-radius: 2%;
+}	
+.belowvid{
+	text-align: center;
+	font-size: 2.3rem;
+	font-weight:bold;
+	font-style: sans-serif;
+	padding:2%;
+}
+.imgtext1{
+	display:flex;
+	margin:3%;
+	padding:1%;
+	width:80%;
+}
+.imgtext2{
+	display:flex;
+	margin:3%;
+	padding:2%;
+	width:100%;
+}
+.text2{
+	margin:5% 14%;
+
+}
+.text2head{
+	font-size:2rem;
+	font-weight:bold;
+    padding:2%;
+}
+.text2para{
+	font-size:1.2rem;
+	margin:2%;
+	font-family:calbribody;
+}
+.text1{
+	margin:5%;
+}	
+.text1head{
+	font-size:2rem;
+	font-weight:bold;
+}
+.text1para{
+	font-size:1.2rem;
+	margin:2%;
+	font-family:calbri;
+}
+.formtitle{
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+	padding:1%;
+}
+.formpara{
+	font-size:1.2rem;
+	text-align: center;
+	padding:1%;
+}
+.endform div{
+	dispaly:flex;
+	text-align:center;
+}
+.formbg{
+	background-color:#f4f8fe;
+}
+.endbut{
+	display:flex;
+	text-align: center;
+}
+.btn1{
+	background-color:blue;
+	paddin
+}
+.faq{
+	text-align: center;
+	padding:4%;
+	background-color:#f4f8fe;
+	width:80%;
+	margin:5%;
+}
+.card1{
+	margin: 3% 0%;
+}
+.card1 select{
+	width:65%;
+	padding:1.8% 2%;
+	font-size:1.1rem;
+	font-weight:bold;
+	color:rgb(80,80,80);
+	border:none;
+}
+.faq h1{
+	padding:2%;
+	font-size:2rem;
+}
+.faq p{
+	padding:1%;
+	font-size:1.2rem;
+	color:lightblack;
+}
+.partnerh1{
+	text-align: center;
+	font-size: 2.5rem;
+	font-weight:bold;
+	padding:1%;
+}
+.partnerimg{
+	display:flex;
+	margin:0% 5% 0% 5%;
+	padding:0% 2% 3% 5%;
+}
+.partnerimg div{
+	width:24%;
+	padding:2%
+}
+.footerpage{
+	background-color:rgb(16,12,52);
+	min-height: 40vh;
+	padding-top: 6%;
+
+}
+.fpage a{
+	text-decoration: none;
+	color:white;
+	padding:5% 3% 5% 0%;
+	font-size: 0.9rem;
+}
+.fpage{
+	text-align: center;
+}
+.footericons {
+	display:flex;
+}
+.footericons div a{
+	margin-right : 10%;
+}
+.fpagepara{
+	color:white;
+	font-size: 0.9rem;
+	text-align: center;
+}
+.millon{
+	font-size:1.8rem;
+	font-weight:bold;
+}
+.revenue{
+	font-size:1.2rem;
+	padding:1%;
+	margin-right:2%;
+}
+.paramiddle{
+	font-size:1.1rem;
+	padding:1%;
+	color:lightblack;
+}
+.change{
+	margin-left:2%;
+	background-color: #f4f8fe;
+	padding-top:4%;
+	padding-bottom:4%;
+	padding-left:2%;
+}
+.bts button{
+    background-color:#ffffff;
+	color:rgb(120,120,120);
+	border:none;
+	padding: 1.5%;
+	border-radius: 25px;
+	font-size:0.9rem;
+	font-weight: bold;
+}
+.bts :hover{
+	background-color: blue;
+	color:white;
+
+}
+.bts{
+	text-align:center;
+	margin-top:5%;
+}
